@@ -1,4 +1,4 @@
-#Problema 2 tutorial 1
+#Problema 4 tutorial 1
 #Para una secuencia con el siguiente significado 
 #Posición 0, un número que indica una posición p en la lista posterior
 #Posición 1, un elemento e
