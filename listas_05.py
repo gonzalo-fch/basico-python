@@ -4,3 +4,5 @@ s = 0
 for i in range(len(w)):
 	s += w[i]*q[i]
 print(s)
+
+# Revisar qué pasa con w = w = [2,'8',10,'a']
