@@ -8,4 +8,10 @@
 #salida correspondiente
 #['a', 'c', 'e', 'g']
 lista = input().split()
+lista2=[]
+
+for x in range(0, len(lista), 2):
+		lista2.append(lista[x])
+		
+lista=lista2
 print(lista)
